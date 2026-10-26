@@ -15,8 +15,10 @@ Major Development.Minor Development.Bug Fixing(Patch Resolving)
 
 express(npm i express)
 axios(npm i axios)
-nodemon(npm i nodemon)
+nodemon(npm install -g nodemon)
 
 ## Command to run application
 
 npm start
+git config --global aryaraut13
+git config --global aryaraut1302@gmail.com
